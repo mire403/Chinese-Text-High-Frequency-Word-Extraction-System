@@ -76,3 +76,8 @@ python word_analysis.py
 | top10_all.xlsx | 所有文本合并后的高频词统计 |
 | wordcloud_sample.png | 样本文本词云图 |
 | wordcloud_all.png | 合并文本词云图 |
+
+## ⭐ Star Support
+
+如果你觉得这个项目对你有帮助，请给仓库点一个 ⭐ Star！
+你的鼓励是我继续优化此项目的最大动力 😊
